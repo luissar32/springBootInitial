@@ -1,0 +1,82 @@
+[
+  {
+    "productId": 1,
+    "name": "Men's Classic Denim Jacket",
+    "cost": 49.99,
+    "details": "A timeless denim jacket made from high-quality cotton for a comfortable and durable fit.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/mens-denim-jacket.jpg"
+  },
+  {
+    "productId": 2,
+    "name": "Casual Men's Cotton T-Shirt",
+    "cost": 19.99,
+    "details": "Soft and breathable cotton t-shirt, perfect for everyday casual wear.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/mens-cotton-tshirt.jpg"
+  },
+  {
+    "productId": 3,
+    "name": "Men's Slim Fit Chinos",
+    "cost": 39.99,
+    "details": "Elegant and comfortable slim-fit chinos, suitable for casual and semi-formal occasions.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/mens-chinos.jpg"
+  },
+  {
+    "productId": 4,
+    "name": "Women's Summer Floral Dress",
+    "cost": 35.99,
+    "details": "Lightweight and breathable floral dress, perfect for summer outings and casual wear.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/womens-floral-dress.jpg"
+  },
+  {
+    "productId": 5,
+    "name": "Women's Cozy Knit Sweater",
+    "cost": 45.99,
+    "details": "Warm and stylish knit sweater for chilly days, available in various colors.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/womens-knit-sweater.jpg"
+  },
+  {
+    "productId": 6,
+    "name": "Unisex Hooded Sweatshirt",
+    "cost": 29.99,
+    "details": "Soft and warm hoodie with a relaxed fit, ideal for casual wear.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/unisex-hoodie.jpg"
+  },
+  {
+    "productId": 7,
+    "name": "Men's Waterproof Winter Jacket",
+    "cost": 79.99,
+    "details": "Durable and insulated winter jacket designed to keep you warm in harsh weather.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/mens-winter-jacket.jpg"
+  },
+  {
+    "productId": 8,
+    "name": "Women's High-Waisted Leggings",
+    "cost": 25.99,
+    "details": "Stretchy and comfortable high-waisted leggings, great for workouts or everyday wear.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/womens-leggings.jpg"
+  },
+  {
+    "productId": 9,
+    "name": "Men's Formal Dress Shirt",
+    "cost": 34.99,
+    "details": "Classic dress shirt with a slim fit, perfect for office or formal events.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/mens-dress-shirt.jpg"
+  },
+  {
+    "productId": 10,
+    "name": "Women's Lightweight Cardigan",
+    "cost": 27.99,
+    "details": "Soft and lightweight cardigan, great for layering in any season.",
+    "categoryName": "madeinargentina",
+    "imageUrl": "https://example.com/img/womens-cardigan.jpg"
+  }
+]
